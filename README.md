@@ -1,2 +1,10 @@
 # AcademyBot
-Homework telegram bot for Founder Academy
+
+Телеграм-бот для домашнего задания Академии Founder. Представляет собой квиз по языку программирования Python.
+
+Имя: @HomeworkTestBbot
+
+Поддерживает следующие команды:
+/start - Приветствие
+/quiz - Начать игру
+
